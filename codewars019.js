@@ -1,0 +1,1 @@
+const vowels = [...str].filter(c => 'aeiou'.includes(c)).length;
