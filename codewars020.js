@@ -1,0 +1,1 @@
+const disemvowel = str => [...str].filter(c => !'aeiouAEIOU'.includes(c)).join('');
